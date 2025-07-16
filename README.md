@@ -1,4 +1,4 @@
 # QR code generator
 
-Made with [GPT Engineer]
+Made with GPT Engineer
 
